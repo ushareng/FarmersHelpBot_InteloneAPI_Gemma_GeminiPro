@@ -1,4 +1,4 @@
-# Farmers helper bot using Intel One API and Gemma-2B and Gemini Pro
+# Farmers helper bot using Intel oneAPI and Gemma-2B and Gemini Pro
 
 Making large language models (LLMs) open source greatly enhances the accessibility of AI technology worldwide. While it’s improbable, it’s not impossible that the next AI breakthrough could originate from someone lacking access to extensively distributed accelerator clusters. Yet, the scenario shifts notably in AI application development, where there’s greater flexibility in choosing product development infrastructure. This convergence of CPU availability, scalability, and the genuine open-source licensing of LLMs emerges as a significant facilitator for AI advancement.
 
